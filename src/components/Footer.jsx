@@ -15,7 +15,7 @@ export default function Footer() {
           </a>
           <span>|</span>
           <a 
-            href="https://github.com" 
+            href="https://github.com/Kae-James/COMP229_Assignment1" 
             target="_blank" 
             rel="noopener noreferrer"
           >
